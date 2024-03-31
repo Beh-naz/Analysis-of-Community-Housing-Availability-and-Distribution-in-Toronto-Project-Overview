@@ -2,15 +2,15 @@
 
 
 ## Project Overview
-This project explores a critical question impacting urban communities: **"Is there sufficient community housing in Toronto, and is it appropriately distributed across neighborhoods?"** Through comprehensive analysis and visualization, we reveal significant disparities in the availability of community housing across various areas of Toronto. Notably, neighborhoods such as O'Connor-Parkview and Newtonbrook West stand out due to their inadequate community housing provisions. These areas, among others identified, exhibit a concerning combination of high composite benchmarks and low median household incomes. Our study leverages the capabilities of **ArcGIS Online** to conduct this analysis.
+This project explores a critical question impacting urban communities: **"Is there sufficient community housing in Toronto, and is it appropriately distributed across neighbourhoods?"** Through comprehensive analysis and visualization, we reveal significant disparities in the availability of community housing across various areas of Toronto. Notably, neighbourhoods such as O'Connor-Parkview and Newtonbrook West stand out due to their inadequate community housing provisions. These areas, among others identified, exhibit a concerning combination of high composite benchmarks and low median household incomes. Our study leverages the capabilities of **ArcGIS Online** to conduct this analysis.
 
 ## Methodology
 The investigation into Toronto's community housing landscape involved several key steps, utilizing data sourced from the City of Toronto's open datasets. The process is outlined below:
 
 # Data Acquisition: 
 We began by downloading the following datasets from the City of Toronto's open data portal:
-* Neighbourhood Boundaries
-* Community Housing Data
+* ![Neighbourhood Boundaries]{https://github.com/Beh-naz/Analysis-of-Community-Housing-Availability-and-Distribution-in-Toronto-Project-Overview/blob/main/Neighbourhoods_-_4326.zip}
+* ![Community Housing Data]{https://github.com/Beh-naz/Analysis-of-Community-Housing-Availability-and-Distribution-in-Toronto-Project-Overview/blob/main/Community%20Housing%20Data%20-%204326.zip}
 
 # Data Preparation: 
 The datasets underwent initial preprocessing, which included renaming various fields for clarity and consistency.
