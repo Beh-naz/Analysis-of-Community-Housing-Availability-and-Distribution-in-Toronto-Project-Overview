@@ -30,5 +30,8 @@ The datasets underwent initial preprocessing, which included renaming various fi
 # Findings
 Our analysis illuminated stark contrasts in the distribution and adequacy of community housing across Toronto. Neighbourhoods like O'Connor-Parkview and Newtonbrook West were identified as areas with a significant shortage of community housing. This situation is exacerbated by the juxtaposition of high living costs (as indicated by composite benchmarks) against the backdrop of low median household incomes, highlighting a pressing need for targeted housing interventions in these and similar neighbourhoods.
 
+# Visualizations
+Find some of the important layers in the [Visualizations](https://github.com/Beh-naz/Analysis-of-Community-Housing-Availability-and-Distribution-in-Toronto-Project-Overview/tree/main/Visualizations) file.
+
 # Tools Used
 ArcGIS Online: This cloud-based mapping and analysis solution was instrumental in performing spatial analysis, creating informative visualizations, and sharing our findings on the distribution of community housing in Toronto.
