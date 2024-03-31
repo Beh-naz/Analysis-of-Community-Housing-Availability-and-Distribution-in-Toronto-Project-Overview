@@ -1,15 +1,15 @@
-![](Affordability Map of Toronto.png)
+![](Affordability_Map_of_Toronto.png)
 
-![](Guide to Affordability Map of Toronto.png)
+![](Guide_to_Affordability_Map_of_Toronto.png)
 
-![](Toronto Median Household Income.png)
+![](Toronto_Median_Household_Income.png)
 
-![](Guide to Toronto Median Household Income.png)
+![](Guide_to_Toronto_Median_Household_Income.png)
 
-![](Toronto Real-Estate.png)
+![](Toronto_Real_Estate.png)
 
-![](Guide to Toronto Real-Estate.png)
+![](Guide_to_Toronto_Real_Estate.png)
 
-![](Affordability Map of Toronto_ Community Housing.png)
+![](Affordability_Map_of_Toronto_Community_Housing.png)
 
-![](Guide to community Housing.png)
+![](Guide_to_community_Housing.png)
