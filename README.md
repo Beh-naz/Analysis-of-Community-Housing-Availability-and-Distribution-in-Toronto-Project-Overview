@@ -9,7 +9,7 @@ The investigation into Toronto's community housing landscape involved several ke
 
 # Data Acquisition: 
 We began by downloading the following datasets from the City of Toronto's open data portal:
-* [Neighbourhood Boundaries](https://github.com/Beh-naz/Analysis-of-Community-Housing-Availability-and-Distribution-in-Toronto-Project-Overview/blob/main/Neighbourhoods_-_4326.zip)
+* [Neighbourhoods](https://github.com/Beh-naz/Analysis-of-Community-Housing-Availability-and-Distribution-in-Toronto-Project-Overview/blob/main/Neighbourhoods_-_4326.zip)
 * [Community Housing Data](https://github.com/Beh-naz/Analysis-of-Community-Housing-Availability-and-Distribution-in-Toronto-Project-Overview/blob/main/Community%20Housing%20Data%20-%204326.zip)
 
 # Data Preparation: 
@@ -18,6 +18,7 @@ The datasets underwent initial preprocessing, which included renaming various fi
 # Layer Creation and Enhancement:
 
 * Saved the processed data as layers, each assigned with a descriptive name, summary, and relevant tags for ease of identification and access.
+* Added the "TREB Current Statistics" layer from ArcGIS Online.
 * Developed new layers representing the sum of median household incomes across neighbourhoods to identify economic disparities.
 * Created layers to visualize the average composite benchmark in each neighbourhood, highlighting areas with potential housing stress.
 * Generated layers summarizing the distribution of community housing units across neighbourhoods, revealing the extent of community housing availability.
