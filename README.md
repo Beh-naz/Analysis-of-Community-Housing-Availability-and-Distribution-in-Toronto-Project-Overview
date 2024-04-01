@@ -6,6 +6,8 @@ This project explores a critical question impacting urban communities: **"Is the
 
 Find the interactive map [here](https://uottawa.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=78797fd13d7e4bb2be8b283b7553f411).
 
+https://uottawa.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=78797fd13d7e4bb2be8b283b7553f411
+
 ## Methodology
 The investigation into Toronto's community housing landscape involved several key steps, utilizing data sourced from the City of Toronto's open datasets. The process is outlined below:
 
