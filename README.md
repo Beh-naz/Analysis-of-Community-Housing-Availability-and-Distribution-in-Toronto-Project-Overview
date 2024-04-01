@@ -4,8 +4,6 @@
 ## Project Overview
 This project explores a critical question impacting urban communities: **"Is there sufficient community housing in Toronto, and is it appropriately distributed across neighbourhoods?"** Through comprehensive analysis and visualization, we reveal significant disparities in the availability of community housing across various areas of Toronto. Notably, neighbourhoods such as O'Connor-Parkview and Newtonbrook West stand out due to their inadequate community housing provisions. These areas, among others identified, exhibit a concerning combination of high composite benchmarks and low median household incomes. Our study leverages the capabilities of **ArcGIS Online** to conduct this analysis.
 
-Access the map [here](https://uottawa.maps.arcgis.com/apps/mapviewer/index.html?webmap=8a7beb0b0fbc4c84b998297aac34741f)
-
 ## Methodology
 The investigation into Toronto's community housing landscape involved several key steps, utilizing data sourced from the City of Toronto's open datasets. The process is outlined below:
 
