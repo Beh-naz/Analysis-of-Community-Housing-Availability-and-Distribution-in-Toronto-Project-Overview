@@ -8,9 +8,15 @@ This project explores a critical question impacting urban communities: **"Is the
 The investigation into Toronto's community housing landscape involved several key steps, utilizing data sourced from the City of Toronto's open datasets. The process is outlined below:
 
 # Data Acquisition: 
-We began by downloading the following datasets from the City of Toronto's open data portal:
-* [Neighbourhoods](https://github.com/Beh-naz/Analysis-of-Community-Housing-Availability-and-Distribution-in-Toronto-Project-Overview/blob/main/Neighbourhoods_-_4326.zip)
-* [Community Housing Data](https://github.com/Beh-naz/Analysis-of-Community-Housing-Availability-and-Distribution-in-Toronto-Project-Overview/blob/main/Community%20Housing%20Data%20-%204326.zip)
+We began by downloading the following datasets from the City of Toronto's open data portal and adding the "TREB Current Statistics" layer from ArcGIS Online:
+* [Neighbourhoods](https://github.com/Beh-naz/Analysis-of-Community-Housing-Availability-and-Distribution-in-Toronto-Project-Overview/blob/main/Neighbourhoods_-_4326.zip).
+* [Community Housing Data](https://github.com/Beh-naz/Analysis-of-Community-Housing-Availability-and-Distribution-in-Toronto-Project-Overview/blob/main/Community%20Housing%20Data%20-%204326.zip).
+  
+Source: City of Toronto Open Data
+
+* "TREB Current Statistics" in ArcGIS Online.
+
+Source: Toronto Regional Real Estate Board
 
 # Data Preparation: 
 The datasets underwent initial preprocessing, which included renaming various fields for clarity and consistency.
